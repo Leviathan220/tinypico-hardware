@@ -1,0 +1,1 @@
+A 3D Printer Board based on the tinypico nano and the MRR_ESPA. Simplified the board layout, adds usb c, and a battery to save the machine state during power outages.
